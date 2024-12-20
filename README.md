@@ -1,4 +1,4 @@
-# sol-copy-trading-bot
+<h1  align="center"> sol-copy-trading-bot </h1>
 
 AIO-бот - копи-трейдинг, парсер/анализатор кошельков, трекер кошельков, Solana Volume, Solana Sniper, Developed moonshot, meteora volume bot.
 
